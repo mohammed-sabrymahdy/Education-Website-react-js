@@ -1,0 +1,18 @@
+App
+├── Header
+├── Main
+│   ├── Home
+│   │   ├── Card
+│   │   ├── Card
+│   │   └── Card
+│   ├── Courses
+│   │   ├── Course
+│   │   ├── Course
+│   │   └── Course
+│   ├── Reviews
+│   │   ├── Section Header
+│   │   ├── Review
+│   │   ├── Review
+│   │   └── Review
+│   └── Join Us
+└── Footer
