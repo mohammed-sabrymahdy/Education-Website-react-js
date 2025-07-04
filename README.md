@@ -1,12 +1,57 @@
-# React + Vite
+# 🎓 Education Website - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive educational website built using React and Vite.  
+This project features beautifully designed sections including featured courses, student reviews, and a Join Us form — all optimized for performance and usability.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [Click here to view the live site](https://tiny-kitsune-c686da.netlify.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+![UI Preview](./public/ui-ux.jpg)
+
+---
+
+## 🚀 Features
+
+- 🖥️ Fully responsive design
+- 📚 Courses with images, rating, and pricing
+- ⭐ Student testimonials (review section)
+- 📝 Join us form with beautiful layout
+- 🔄 Smooth hover and transition effects
+- 🎨 Clean and modern UI
+
+---
+
+## 🧱 Tech Stack
+
+- ⚛️ React (with Vite)
+- 💅 HTML5 & CSS3
+- 🎨 Custom CSS Variables & Utility Classes
+- 🌐 Deployment via Netlify
+
+---
+
+## 💻 How to Run Locally
+
+```bash
+📦 Education-website-react
+┣ 📁 public
+┃ ┗ 📷 assets (images)
+┣ 📁 src
+┃ ┣ 📂 components
+┃ ┣ 📂 data
+┃ ┗ 📄 App.jsx
+┣ 📄 index.html
+┣ 📄 vite.config.js
+┣ 📄 README.md
+
+git clone https://github.com/mohammed-sabrymahdy/Education-website-react.git
+cd Education-website-react
+npm install
+npm run dev
