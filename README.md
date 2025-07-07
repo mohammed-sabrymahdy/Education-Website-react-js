@@ -7,7 +7,7 @@ This project features beautifully designed sections including featured courses, 
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view the live site](https://tiny-kitsune-c686da.netlify.app)
+🔗 [Click here to view the live site](https://elegant-cactus-36b276.netlify.app/)
 
 ---
 
