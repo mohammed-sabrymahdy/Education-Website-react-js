@@ -12,7 +12,8 @@ This project features beautifully designed sections including featured courses, 
 ---
 
 ## 📸 Preview
-![UI Preview](https://drive.google.com/file/d/1PYxkDMdpXhD80CW8Mp2fVNpU18A2BcAl/view?usp=drive_link)
+![UI Preview](https://drive.google.com/file/d/13_LkQhioU1hgHdIjM9GhqAhnemvvmjyP/view?usp=sharing)
+![UI Preview2](https://drive.google.com/file/d/1PdS7QgRXlW4UzTpQswSYznTbN-ZBBQOV/view?usp=sharing)
 
 
 ---
